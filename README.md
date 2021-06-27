@@ -1,8 +1,7 @@
-- 👋 Hi, I’m 南烟
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning node.js and vue
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 我是 南烟
+- 👀 我喜欢 前端 移动应用开发 这些东西
+- 🌱 目前正在学习MySQL Node.JS vue 这些东西
+- 📫 QQ：2193817984
 
 <!---
 15958185146/15958185146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
